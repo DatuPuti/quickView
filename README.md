@@ -146,6 +146,11 @@ quickView/
 └── CMakeLists.txt                 # Cross-platform build config
 ```
 
+## 📚 Documentation
+
+- **[Git Empty Directories Guide](docs/GIT_EMPTY_DIRECTORIES.md)** - Comprehensive guide on handling empty directories in Git
+- **[Cross-Platform Build Guide](CROSS_PLATFORM.md)** - Detailed platform-specific build instructions
+
 ## 🤝 Contributing
 
 1. **Fork the repository**
@@ -153,6 +158,10 @@ quickView/
 3. **Test on multiple platforms** when possible
 4. **Follow the architecture**: Use `ITerminal` interface for UI operations
 5. **Submit a pull request**
+
+### Git Best Practices
+
+When contributing, you may need to preserve directory structure. See our [Git Empty Directories Guide](docs/GIT_EMPTY_DIRECTORIES.md) for handling empty directories in Git repositories.
 
 ## 📄 License
 
